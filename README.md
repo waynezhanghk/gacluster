@@ -9,6 +9,8 @@
 * [Quick start with MATLAB](#quick-start-with-matlab)
 * [Changes](#changes)
 * [References](#references)
+* [Clustering Project](http://statfe.com/projcluster.html)
+* [Homepage](http://statfe.com/)
 
 ### Introduction
 
@@ -79,25 +81,57 @@ GACluster provides a number of demos for reproducing results on popular datasets
 [2] W. Zhang, D. Zhao and X. Wang. Agglomerative clustering via maximum incremental path integral. Pattern Recognition, 46(11), pp.3056-3065, 2013.
 
 [3] J. Yang, D. Parikh and D. Batra. Joint unsupervised learning of deep representations and image clusters. CVPR, 2016.
+[Paper](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.pdf)
+[Code](https://github.com/jwyang/JULE.torch)
 
 [4] K.G. Dizaji, A. Herandi, C. Deng, W. Cai, H. Huang. Deep clustering via joint convolutional autoencoder embedding and relative entropy minimization. ICCV, 2017.
+[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dizaji_Deep_Clustering_via_ICCV_2017_paper.pdf)
+[Code](https://github.com/herandy/DEPICT)
 
 [5] S.A. Shah and V. Koltun. Robust continuous clustering. PNAS, 114(37), pp.9814-9819, 2017.
+[Paper](https://www.pnas.org/content/114/37/9814)
+[Code](https://bitbucket.org/sohilas/robust-continuous-clustering)
 
 [6] Shah, S.A. and Koltun, V., Deep Continuous Clustering.
+[Paper](https://arxiv.org/pdf/1803.01449.pdf)
+[Code](https://github.com/shahsohil/DCC)
 
 [7] X. Guo, E. Zhu, X. Liu and J. Yin. Deep embedded clustering with data augmentation. ACML, 2018.
+[Paper](http://proceedings.mlr.press/v95/guo18b/guo18b.pdf)
+[Code](https://github.com/XifengGuo/DEC-DA)
 
 [8] X. Guo, L. Gao, X. Liu and J. Yin. Improved deep embedded clustering with local structure preservation. IJCAI, 2017.
+[Paper](https://www.ijcai.org/proceedings/2017/0243.pdf)
+[Code](https://github.com/XifengGuo/IDEC)
 
 [9] J. Xie, R. Girshick and A. Farhadi. Unsupervised deep embedding for clustering analysis. ICML, 2016.
 
 [10] Z. Jiang, Y. Zheng, H. Tan, B. Tang and H. Zhou. Variational deep embedding: An unsupervised and generative approach to clustering. IJCAI, 2017.
+[Paper](https://www.ijcai.org/proceedings/2017/0273.pdf)
+[Code](https://github.com/slim1017/VaDE)
 
 [11] J. Chang, L. Wang, G. Meng, S. Xiang and C. Pan. Deep adaptive image clustering. ICCV, 2017.
+[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf)
+[Code](https://github.com/vector-1127/DAC)
 
 [12] F. Li, H. Qiao and B. Zhang. Discriminatively boosted image clustering with fully convolutional auto-encoders. Pattern Recognition, 83, 2017.
+[Paper](https://arxiv.org/pdf/1703.07980.pdf)
 
 [13] Y. Ren, N. Wang, M. Li and Z. Xu. Deep Density-based Image Clustering. arXiv preprint arXiv:1812.04287, 2018.
+[Paper](https://arxiv.org/pdf/1812.04287.pdf)
 
 [14] K.G. Dizaji, X. Wang, C. Deng and H. Huang. Balanced Self-Paced Learning for Generative Adversarial Clustering Network. CVPR, 2019.
+[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ghasedi_Balanced_Self-Paced_Learning_for_Generative_Adversarial_Clustering_Network_CVPR_2019_paper.pdf)
+
+[15] W. Hu, T. Miyato, S. Tokui, E. Matsumoto and M. Sugiyama. Learning Discrete Representations via Information Maximizing Self-Augmented Training. ICML, 2017.
+[Paper](http://proceedings.mlr.press/v70/hu17b.html)
+[Code](https://github.com/weihua916/imsat)
+
+[16] U. Shaham, K. Stanton, H. Li, B. Nadler, R. Basri and Y. Kluger. SpectralNet: Spectral Clustering Using Deep Neural Networks. ICLR, 2018.
+[Paper](https://openreview.net/pdf?id=HJ_aoCyRZ)
+[Code](https://github.com/KlugerLab/SpectralNet)
+
+[17] X. Guo, X. Liu, E. Zhu, X. Zhu, M. Li,X. Xu and J. Yin. Adaptive Self-paced Deep Clustering with Data Augmentation. IEEE TKDE, 2019.
+[Paper](https://xifengguo.github.io/papers/TKDE19-ASPC-DA.pdf)
+[Code](https://github.com/XifengGuo/ASPC-DA)
+
